@@ -1,0 +1,4 @@
+Currently there are courses for 4 languages, and hence there are 8 courses in this section. 
+But suppose there are courses for 10 languages, what will be the total number of courses in this section?
+
+Answer:20
